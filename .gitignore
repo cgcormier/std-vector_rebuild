@@ -1,0 +1,14 @@
+# Compiled programs and object files
+/vector_tests
+/vector_tests.exe
+/main
+/main.exe
+*.o
+*.dSYM/
+
+# Vim recovery files remain local
+*.sw?
+*~
+
+# Python cache
+__pycache__/
